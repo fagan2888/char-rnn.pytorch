@@ -32,6 +32,7 @@ Options:
 --chunk_len        Length of training chunks           200
 --batch_size       Number of examples per batch        100
 --cuda             Use CUDA
+--stabilize        Force the recurrent model to be stable
 ```
 
 ## Generation
